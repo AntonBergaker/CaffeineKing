@@ -1,0 +1,2 @@
+#macro INT_32_MAX 0x7FFFFFFF
+#macro INT_32_MIN -0x80000000

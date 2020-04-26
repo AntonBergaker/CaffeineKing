@@ -1,0 +1,1 @@
+image_index = plantsLeft == 2 ? 0 : 1;
